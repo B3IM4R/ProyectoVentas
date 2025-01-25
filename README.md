@@ -53,7 +53,7 @@ Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, 
 - En el algoritmo se captura información, como el ID, el nombre y el punto de venta, que no se utiliza; sin embargo, esta información se mantiene porque posteriormente puede ser útil para ampliar la funcionalidad de la aplicación. Inicialmente el algoritmo no contempla validaciones como impedir el doble ingreso de un mismo número de identificación.
 ---
 
-<u>**Seudocódigo**</u>
+<u>**Pseudocódigo**</u>
 
 ```
 Inicio
